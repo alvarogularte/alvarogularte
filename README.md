@@ -13,6 +13,8 @@ Tenho desenvolvido projetos de estudo utilizando:
 - React
 - Redux
 - ContextAPI
+- Docker
+- MySQL
 
 ## Contato
 
