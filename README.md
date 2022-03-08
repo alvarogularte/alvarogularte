@@ -10,11 +10,12 @@ Tenho desenvolvido projetos de estudo utilizando:
 - HTML
 - CSS
 - JavaScript
-- React
+- React.js
 - Redux
 - ContextAPI
 - Docker
 - MySQL
+- Node.js
 
 ## Contato
 
