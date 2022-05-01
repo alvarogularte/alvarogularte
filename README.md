@@ -4,7 +4,7 @@ Estou em transição de carreira, cursei Letras - Espanhol por 5 períodos e tra
 Concluí a graduação tecnológica em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá e iniciei a Pós-graduação em Segurança da Informação (que tive que trancar durante a pandemia).
 Estou cursando Desenvolvimento Web na Trybe.
 
-###Tecnologias
+### Tecnologias
 
 Tenho desenvolvido projetos de estudo utilizando:
 - HTML
