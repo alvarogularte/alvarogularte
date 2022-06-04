@@ -15,6 +15,7 @@ Tenho desenvolvido projetos de estudo utilizando:
 - ContextAPI
 - Docker
 - MySQL
+- MongoDB
 - Node.js
 - Typescript
 - Java
