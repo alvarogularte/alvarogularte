@@ -19,6 +19,9 @@ Tenho desenvolvido projetos de estudo utilizando:
 - Node.js
 - Typescript
 - Java
+- Hibernate
+- Spring
+- Quarkus
 
 ## Contato
 
