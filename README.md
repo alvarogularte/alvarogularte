@@ -22,6 +22,7 @@ Tenho desenvolvido projetos de estudo utilizando:
 - Hibernate
 - Spring
 - Quarkus
+- Python
 
 ## Contato
 
