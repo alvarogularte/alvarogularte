@@ -14,6 +14,7 @@ Tenho desenvolvido projetos de estudo utilizando:
 - React.js
 - Redux
 - ContextAPI
+- Angular
 - Docker
 - MySQL
 - MongoDB
